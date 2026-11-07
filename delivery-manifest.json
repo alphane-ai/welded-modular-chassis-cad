@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "prepared_date": "2026-11-07",
+  "source_records_date": "2026-11-05",
+  "root": "生产图纸 焊接固定",
+  "scope": "One final welded-version set; file integrity only, not manufacturing approval",
+  "file_count": 15,
+  "files": [
+    {
+      "path": "全焊_主体_草图可编辑.SLDPRT",
+      "bytes": 2851237,
+      "sha256": "b1af18328fd618b0725683d32da64a206cbe1b2537e0fc0db893a9484dc86ace"
+    },
+    {
+      "path": "全焊_前插榫_舌16_R2_草图可编辑.SLDPRT",
+      "bytes": 185523,
+      "sha256": "4474b9bc24b02e084c6ab91ea57ca6621eee9d07d10aa065bcdae5e2a9851bb4"
+    },
+    {
+      "path": "全焊_单箱_草图可编辑.SLDASM",
+      "bytes": 1184304,
+      "sha256": "2ef13e6edad2d3a3e5e71c0e452aab57f6d5c9f6fdc20a7140fefe5ceba3ea24"
+    },
+    {
+      "path": "全焊_单箱含侧板_草图可编辑.SLDASM",
+      "bytes": 2333104,
+      "sha256": "1c27cd3055ba569587fd49000abe839cd689ba8f4b0162e3a255c88ef542be6e"
+    },
+    {
+      "path": "全焊_后安装挡片_M3_草图可编辑.SLDPRT",
+      "bytes": 117774,
+      "sha256": "ec9b006f7f436bdcff5d806abc12a915a212cef39bb994d5907f3296b22adbed"
+    },
+    {
+      "path": "全焊_生产尺寸与制造要求.SLDDRW",
+      "bytes": 5269484,
+      "sha256": "6111b10fd1a3062924b193eefc01a7fc57ddecc54737531099b068ad16f4ce63"
+    },
+    {
+      "path": "全焊_生产尺寸与制造要求.pdf",
+      "bytes": 572723,
+      "sha256": "10ca2561daab219712dc492373a0053b2695a39aa77d6b871e484e91e333cdef"
+    },
+    {
+      "path": "全焊_相同双箱_草图可编辑.SLDASM",
+      "bytes": 1233694,
+      "sha256": "61964f3b27a89708c29f2bc3928be50d8dde4fad268875b93d3ff5164a747dd3"
+    },
+    {
+      "path": "全焊_相同双箱含侧板_草图可编辑.SLDASM",
+      "bytes": 2222746,
+      "sha256": "105f18eb0bed4fe6e5edbbaceb2afa188b24961e4f5f5c36cc8139fb69a21cbb"
+    },
+    {
+      "path": "打开与修改说明.md",
+      "bytes": 6656,
+      "sha256": "24a0d2362942aa7465572ec6c99b6b01154afda9a216bffecff66839d5cb36b9"
+    },
+    {
+      "path": "配套侧板/全焊_侧板_X压印深1_尺寸与制造要求.SLDDRW",
+      "bytes": 4456743,
+      "sha256": "96a917965f1c19a3bbea7971b2b8641a5418a84f782bfae86310d9d6af59e26e"
+    },
+    {
+      "path": "配套侧板/全焊_侧板_X压印深1_尺寸与制造要求.pdf",
+      "bytes": 685669,
+      "sha256": "992545fb807007e9c346a4a0de4a95437098ec6ccddc216fad1bc8a8a757e28d"
+    },
+    {
+      "path": "配套侧板/全焊_侧板总成_草图可编辑.SLDASM",
+      "bytes": 1302466,
+      "sha256": "82c4fee064c0e3b59a0e55564d81210e79bc680e473c91cafab3b163089d533f"
+    },
+    {
+      "path": "配套侧板/全焊配套_侧盖板_草图可编辑.SLDPRT",
+      "bytes": 1993804,
+      "sha256": "2f68ec19ab28d7dd7c316afee3eb1eb7edee2c5b296c52599c1b9f570f5acfb8"
+    },
+    {
+      "path": "配套侧板/全焊配套_前卡耳_内伸12_槽18乘5_草图可编辑.SLDPRT",
+      "bytes": 104637,
+      "sha256": "5d26fafd8c35d355cf3416e0aa5f976c4e5dc2befc64e30b5f3f8a1351636e75"
+    }
+  ]
+}

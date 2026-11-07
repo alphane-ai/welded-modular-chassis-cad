@@ -1,0 +1,16 @@
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.log text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+*.SLDPRT binary
+*.SLDASM binary
+*.SLDDRW binary
+*.sldprt binary
+*.sldasm binary
+*.slddrw binary
+*.pdf binary
+*.png binary
+"/生产图纸 焊接固定/**" -text -eol whitespace=cr-at-eol

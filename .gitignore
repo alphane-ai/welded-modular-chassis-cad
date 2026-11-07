@@ -1,0 +1,33 @@
+# SOLIDWORKS临时文件和备份
+~$*
+*.sldbak
+*.SLDBAK
+*.sldrecover
+*.SLDRECOVER
+*.swbak
+*.bak
+*.tmp
+*.log
+!research/evidence/*.log
+
+# 不在版本库里存第二套压缩包或大尺寸中间截图
+*.zip
+*.7z
+*.rar
+*.bmp
+
+# 运行环境及凭据不属于图纸资料
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+!.env.example
+credentials*
+*credentials.json
+hosts.yml
+imagegen.toml
+
+.DS_Store
+Thumbs.db
+desktop.ini

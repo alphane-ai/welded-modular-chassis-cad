@@ -1,0 +1,133 @@
+{
+  "units": "mm",
+  "design_revision": "C1-slot24",
+  "prepared_date": "2026-11-07",
+  "status": "Nominal design reference; does not replace CAD, drawing tolerances or manufacturing validation",
+  "body": {
+    "length": 308,
+    "width": 71.2,
+    "height": 189,
+    "nominal_thickness": 1.2,
+    "inner_y": [
+      1.2,
+      187.8
+    ]
+  },
+  "front_tabs": {
+    "head_width": 32,
+    "tongue_width": 16,
+    "tongue_tip_radius": 2,
+    "slot_width": 24,
+    "slot_short_width": 4.5,
+    "slot_bar_each": 4,
+    "centers_y": [
+      50.5,
+      138.5
+    ],
+    "center_pitch": 88,
+    "head_gap": 56,
+    "tongue_gap": 72,
+    "slot_gap": 64,
+    "head_edge_each": 33.3,
+    "tongue_edge_each": 41.3,
+    "slot_edge_each": 37.3,
+    "slot_y": [
+      [
+        38.5,
+        62.5
+      ],
+      [
+        126.5,
+        150.5
+      ]
+    ],
+    "weld_x": [
+      18,
+      47
+    ],
+    "left_chain": [
+      33.3,
+      4,
+      24,
+      4,
+      56,
+      4,
+      24,
+      4,
+      33.3
+    ]
+  },
+  "rear_connection": {
+    "thread": "M3x0.5-6H",
+    "pilot_diameter": 2.5,
+    "body_x": 65.2,
+    "tab_x": -6,
+    "hole_y": [
+      20.5,
+      163.5
+    ],
+    "hole_pitch": 143,
+    "edge_distance": 6,
+    "identical_unit_translation_x": 71.2
+  },
+  "side_panel": {
+    "cover": [
+      308,
+      189
+    ],
+    "nominal_thickness": 1.2,
+    "front_slot": [
+      18,
+      5
+    ],
+    "front_slot_y": [
+      50.5,
+      138.5
+    ],
+    "emboss_depth": 1,
+    "hole_diameter": 2,
+    "hole_count": 1522,
+    "hole_pitch": [
+      4,
+      4
+    ],
+    "unperforated_band_y": [
+      84,
+      105
+    ],
+    "unperforated_band_width": 21,
+    "rear_ears": "integral 90 degree bends; not welded",
+    "rear_bend_radius_inner": 1.2,
+    "rear_bend_radius_outer": 2.4,
+    "rear_reliefs": {
+      "size": [
+        2,
+        24
+      ],
+      "x": [
+        69.2,
+        71.2
+      ],
+      "y": [
+        [
+          8.5,
+          32.5
+        ],
+        [
+          151.5,
+          175.5
+        ]
+      ],
+      "inner_corner_radius": 0.5
+    }
+  },
+  "user_requirements": {
+    "general_linear_tolerance_plus_minus": 0.5,
+    "unspecified_edge_radius": 0.5,
+    "finish": [
+      "straightening",
+      "matte preparation",
+      "titanium-grey paint"
+    ]
+  }
+}
